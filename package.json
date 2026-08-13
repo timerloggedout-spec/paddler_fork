@@ -4,7 +4,7 @@
     "@types/hotwired__turbo": "^8",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
-    "esbuild": "^0.25.8",
+    "esbuild": "^0.28.2",
     "eslint": "^9.33.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "fs-extra": "^11.3.1",
